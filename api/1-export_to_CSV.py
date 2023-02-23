@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""Writing a Python script that, using the REST API, for a given employee ID,
-returns information about his/her TODO list progress.
+"""
+From task #0, extending the Python script to export data in the CSV format.
 """
 
 import csv
